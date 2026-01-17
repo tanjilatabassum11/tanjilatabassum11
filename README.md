@@ -4,4 +4,4 @@ I’m a software developer and a dedicated, highly motivated Computer Science an
 
 I am skilled in translating real-world customer challenges into effective technical solutions and continuously expanding my coding and data expertise to build innovative, user-focused technology. I am actively seeking opportunities where I can blend my technical knowledge, data-driven thinking, and customer-centric approach as a software developer or data-focused professional.
 
-
+Tools : Python | SQL | RESTAPI | PowerBI | Database | PostgreSql 
